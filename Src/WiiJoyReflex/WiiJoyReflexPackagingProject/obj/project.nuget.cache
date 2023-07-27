@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JA1D8Y8Q2gNJZqClPiZW2/Uve/5s8oPlepi+POdvUAsV2sYqeW2hdaA0EdzGf8tc3EQKe6XHdg1YjUx7mc74Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\Documents\\File\\perso\\WiiJoyReflex\\Src\\WiiJoyReflex\\WiiJoyReflexPackagingProject\\WiiJoyReflexPackagingProject.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.1\\microsoft.windows.sdk.buildtools.10.0.22621.1.nupkg.sha512"
+  ],
+  "logs": []
+}

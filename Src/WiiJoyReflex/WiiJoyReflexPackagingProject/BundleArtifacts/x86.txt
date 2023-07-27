@@ -1,0 +1,2 @@
+MainPackage=C:\Users\micha\Documents\GitHub\WiiJoyReflex\Src\uwp\WiiJoyReflex\WiiJoyReflexPackagingProject\bin\x86\Release\WiiJoyReflexPackagingProject_1.0.15.0_x86.appx
+SymbolPackage=C:\Users\micha\Documents\GitHub\WiiJoyReflex\Src\uwp\WiiJoyReflex\WiiJoyReflexPackagingProject\obj\x86\Release\Symbols\WiiJoyReflexPackagingProject_1.0.15.0_x86.appxsym
