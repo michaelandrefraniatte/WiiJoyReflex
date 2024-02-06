@@ -28,3 +28,9 @@ C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\wjr\obj\Releas
 C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\wjr\obj\Release\wjr.csproj.CoreCompileInputs.cache
 C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\wjr\obj\Release\wjr.dll
 C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\wjr\obj\Release\wjr.pdb
+C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\wjr\bin\Release\wjr.dll
+C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\wjr\bin\Release\wjr.pdb
+C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\wjr\obj\Release\wjr.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\wjr\obj\Release\wjr.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\wjr\obj\Release\wjr.dll
+C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\wjr\obj\Release\wjr.pdb

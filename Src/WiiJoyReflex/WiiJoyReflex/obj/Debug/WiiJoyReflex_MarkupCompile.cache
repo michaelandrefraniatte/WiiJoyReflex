@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflex\obj\x86\Release\
+C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflex\obj\Debug\
 WiiJoyReflex
 none
 false
-TRACE
+DEBUG;TRACE
 C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflex\App.xaml
 1219584333
 
-51579654133
+6-502434485
 18-1403300313
 MainWindow.xaml;
 
-False
+True
 

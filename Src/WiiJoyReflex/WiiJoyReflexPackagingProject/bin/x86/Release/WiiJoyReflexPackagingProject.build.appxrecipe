@@ -10,55 +10,55 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>7cfea9ea-6137-48c8-b82a-755d795bc388</PackageIdentityName>
     <PackageIdentityPublisher>CN=micha</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\obj\x86\Release\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\obj\x86\Release\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath></WindowsSdkPath>
-    <LayoutDir>C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\bin\x86\Release\AppX</LayoutDir>
+    <LayoutDir>C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\bin\x86\Release\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\bin\x86\Release\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\bin\x86\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\SplashScreen.scale-200.png">
       <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\LockScreenLogo.scale-200.png">
       <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\Square150x150Logo.scale-200.png">
       <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\bin\x86\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflexPackagingProject\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflex\bin\x86\Release\WiiJoyReflex.exe">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflex\bin\x86\Release\WiiJoyReflex.exe">
       <PackagePath>WiiJoyReflex\WiiJoyReflex.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\micha\Documents\File\perso\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflex\bin\x86\Release\WiiJoyReflex.exe.config">
+    <AppxPackagedFile Include="C:\Users\micha\Documents\github\WiiJoyReflex\Src\WiiJoyReflex\WiiJoyReflex\bin\x86\Release\WiiJoyReflex.exe.config">
       <PackagePath>WiiJoyReflex\WiiJoyReflex.exe.config</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
